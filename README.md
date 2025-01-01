@@ -28,46 +28,61 @@ Visualization: Design and create interactive visualizations such as bar charts, 
 Dashboard Creation: Combine visualizations into a cohesive dashboard for easy navigation and insight extraction.
 Analysis and Insights: Use the dashboard to derive insights and make recommendations.
 
---- # Task List:
+ # Task List:
 
 Task 1: Top 10 Areas with Most Restaurants
+
 Objective: Identify the top 10 areas with the highest number of restaurants.
 
 Task 2: Most Popular Food Types Served by Swiggy Restaurants in Each City
+
 Objective: Determine the most popular food types served in each city.
 
 Task 3: Top Rated Swiggy Restaurants (In Percentage)
+
 Objective: Find the percentage of top-rated restaurants (e.g.,'those with an average rating above 4.5').
 
 Task 4: Correlation of Factors Affecting Average Rating
+
 Objective: Identify correlations between different factors (e.g., price, total ratings, delivery time) and average rating.
 
 Task 6: City-wise Restaurant Count
+
 Objective: Find out the number of restaurants in each city.
 
 Task 7: Price Analysis
+
 Objective: Analyze the price distribution of restaurants.
 
 Task 8: Delivery Time Analysis
+
 Objective: Analyze the average delivery time of restaurants.
 
 Task 9: Cuisine Analysis
+
 Objective: Analyze the variety of cuisines offered by restaurants.
 
 Task10: Area-wise Restaurant Analysis
+
 Objective: Analyze the number of restaurants in each area within the city.
 
 Task 11: Correlation Analysis
+
 Objective: ==Investigate any correlations between variables such as price, ratings, and delivery time.
 
 Task 12: Customer Feedback Analysis
+
 Objective: Analyze customer feedback based on ratings and total ratings.
 
 ask 13: Geographical Mapping
+
 Objective: Create a geographical map of restaurant locations.
 
 Task 14: Business Recommendations
+
 Objective: Provide actionable business recommendations based on the analysis.
+
+# Result 
 
 1. ## Focus on High-Density Areas: 
                    
