@@ -139,7 +139,10 @@ Highlight unique cuisine options to differentiate Swiggy from competitors.
  Consider exclusive offers or loyalty programs for frequent customers in this area.
 
 
-# Dashboard ![image](https://github.com/user-attachments/assets/98a45945-2c3a-418b-9ef3-00291c1f5b43)
+# Dashboard ![Screenshot 2025-01-09 000959](https://github.com/user-attachments/assets/cd33d19a-54f8-4a2f-a62c-826bc99c85c3)
+![Screenshot 2025-01-09 000900](https://github.com/user-attachments/assets/26b5b7df-6793-41be-9f51-19ee99b4f643)
+
+
 
 
 
