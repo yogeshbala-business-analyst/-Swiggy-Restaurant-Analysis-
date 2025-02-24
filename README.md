@@ -30,57 +30,57 @@ Analysis and Insights: Use the dashboard to derive insights and make recommendat
 
  # Task List:
 
-Task 1: Top 10 Areas with Most Restaurants
+### Task 1: Top 10 Areas with Most Restaurants
 
 Objective: Identify the top 10 areas with the highest number of restaurants.
 
-Task 2: Most Popular Food Types Served by Swiggy Restaurants in Each City
+### Task 2: Most Popular Food Types Served by Swiggy Restaurants in Each City
 
 Objective: Determine the most popular food types served in each city.
 
-Task 3: Top Rated Swiggy Restaurants (In Percentage)
+### Task 3: Top Rated Swiggy Restaurants (In Percentage)
 
 Objective: Find the percentage of top-rated restaurants (e.g.,'those with an average rating above 4.5').
 
-Task 4: Correlation of Factors Affecting Average Rating
+### Task 4: Correlation of Factors Affecting Average Rating
 
 Objective: Identify correlations between different factors (e.g., price, total ratings, delivery time) and average rating.
 
-Task 6: City-wise Restaurant Count
+### Task 6: City-wise Restaurant Count
 
 Objective: Find out the number of restaurants in each city.
 
-Task 7: Price Analysis
+### Task 7: Price Analysis
 
 Objective: Analyze the price distribution of restaurants.
 
-Task 8: Delivery Time Analysis
+### Task 8: Delivery Time Analysis
 
 Objective: Analyze the average delivery time of restaurants.
 
-Task 9: Cuisine Analysis
+### Task 9: Cuisine Analysis
 
 Objective: Analyze the variety of cuisines offered by restaurants.
 
 Task10: Area-wise Restaurant Analysis
 
-Objective: Analyze the number of restaurants in each area within the city.
+### Objective: Analyze the number of restaurants in each area within the city.
 
 Task 11: Correlation Analysis
 
-Objective: ==Investigate any correlations between variables such as price, ratings, and delivery time.
+### Objective: ==Investigate any correlations between variables such as price, ratings, and delivery time.
 
 Task 12: Customer Feedback Analysis
 
-Objective: Analyze customer feedback based on ratings and total ratings.
+### Objective: Analyze customer feedback based on ratings and total ratings.
 
 ask 13: Geographical Mapping
 
-Objective: Create a geographical map of restaurant locations.
+### Objective: Create a geographical map of restaurant locations.
 
 Task 14: Business Recommendations
 
-Objective: Provide actionable business recommendations based on the analysis.
+### Objective: Provide actionable business recommendations based on the analysis.
 
 # Result 
 
@@ -137,7 +137,8 @@ Highlight unique cuisine options to differentiate Swiggy from competitors.
   Finding: Rohini in Delhi has the highest number of restaurants.
  Recommendation:  Deepen  engagement  with  restaurant owners in Rohini to improve service quality and customer satisfaction.
  Consider exclusive offers or loyalty programs for frequent customers in this area.
-
+ 
+## FULL project presentation https://1drv.ms/p/c/56d15da3a80a1a7f/ESJyAVdvAYRNt5vUqV44gm0BEc6gQ3GQN8y4gyo-AoMcTg?e=6NWjJY
 
 # Dashboard ![Screenshot 2025-02-24 124844](https://github.com/user-attachments/assets/6e801788-c322-452f-8b55-ec8598d73e31)
 
